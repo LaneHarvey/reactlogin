@@ -1,0 +1,80 @@
+
+{
+    "name": "Fidget Spinner",
+    "image": "http://www.asseenontvandbeyond.com/assets/images/fidget-spinner.jpg",
+    "desc": "Everyones loves these spinners. Deals with ADHD, and keeps everyone distracted",
+    "price": 724,
+    "status": "available",
+    "colors": ["red", "yellow", "blue", "black"]
+  },
+
+{
+    "name": "Girl Scout Cookies",
+    "image": "http://milnephotography.com/wp-content/uploads/2012/02/Girl-Scouts-Banner-web.jpg",
+    "desc": "Tasty cookies, comes in many different flavors and variaties",
+    "price": 1500,
+    "status": "available",
+    "colors": ["red", "yellow", "blue", "black"]
+  },
+
+{
+    "name": "Drone",
+    "image": "http://cdn.wccftech.com/wp-content/uploads/2015/07/eb7e6a5f6b5358fb59c332c0279fb6e29b0547b2_main_hero_image.png",
+    "desc": "Super Fun little drone. Comes with wall charger and two AA Batteries for receiver",
+    "price": 1699,
+    "status": "available",
+    "colors": {
+      "red": 90,
+      "blue": 15,
+      "yellow": 6,
+      "green": 15,
+    }
+  },
+
+{
+    "name": "Rolex",
+    "image": "https://www.bobswatches.com/rolex-blog/wp-content/uploads/2016/10/Rolex-Submariner-116610LN.jpeg",
+    "desc": "For your dad",
+    "price": 9999,
+    "status": "unavailable"
+  },
+
+{
+    "name": "Magic Invisible Ink",
+    "image": "https://i.ytimg.com/vi/cqYcwm9xZnI/hqdefault.jpg",
+    "desc": "Piss someone you love off ",
+    "price": 500,
+    "status": "available"
+  },
+
+{
+    "name": "Yoyo",
+    "image": "https://yoyotricks.com/wp-content/uploads/2017/01/YoYoFactory-Boss-Yoyo-Blue.jpg",
+    "desc": "Just a yoyo",
+    "price": 1200,
+    "status": "available"
+  },
+
+{
+    "name": "RC Car",
+    "image": "https://images.hobbytron.com/ZX-9112G-lg.jpg",
+    "desc": "Fast electric car",
+    "price": 2543,
+    "status": "available"
+  },
+
+{
+    "name": "Julie Cancer Support",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/31pTwvukpXL.jpg",
+    "desc": "Support Julie",
+    "price": 299,
+    "status": "available"
+  },
+
+{
+    "name": "Shock Pen",
+    "image": "http://www.thegreenhead.com/imgs/shocking-pen-1.jpg",
+    "desc": "Shocking ",
+    "price": 1100,
+    "status": "available"
+  }
